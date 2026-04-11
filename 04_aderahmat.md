@@ -1,55 +1,66 @@
-RANGKUMAN MATA KULIAH PERANGKAT LUNAK  
+ 
+ 📑 LAPORAN KELOMPOK MATERI: REKAYASA PERANGKAT LUNAK
+GROUP A: METODOLOGI PENGEMBANGAN (SDLC)
+Kelompok ini berisi "Aturan Main" atau framework besar yang dipilih tim sebelum proyek dimulai.
 
- 1. Metodologi Pengembangan (SDLC)
-Papan tulis membagi pendekatan kerja menjadi dua kubu besar:
+1. SDLC (Software Development Life Cycle): Fondasi utama atau siklus hidup pengembangan sistem.
 
-Waterfall Model: Metode klasik yang linear. Digambarkan dalam kotak terpisah karena sifatnya yang kaku; Anda tidak bisa lanjut ke desain jika analisis belum selesai.
+2. Waterfall Model: Metode tradisional yang berjalan berurutan (linear).
 
-Agile & Scrum: Metode yang modern dan adaptif.
+3. Agile Framework: Metode modern yang fleksibel dan berulang.
 
-Scrum: Fokus pada kerja tim dan pembagian tugas.
+Scrum: Cabang Agile yang fokus pada manajemen tim.
 
-Sprint: Siklus pengembangan pendek (biasanya 2-4 minggu) untuk menghasilkan bagian kecil dari aplikasi yang sudah bisa berfungsi.
+Sprint: Siklus kerja pendek di dalam Scrum (1-4 minggu).
 
-XP (Extreme Programming): Menekankan pada kualitas teknis dan coding yang sangat disiplin.
-2. Siklus Kerja: P-A-D-I-U-D-M
-Ini adalah alur hidup sebuah sistem dari lahir hingga "pensiun":
+Extreme Programming (XP): Cabang Agile yang fokus pada kualitas teknis coding.
 
-Planning (P): Menentukan apa yang mau dibuat dan berapa biayanya.
 
-Analysis (A): Mengumpulkan kebutuhan fitur dari pengguna (User Requirements).
 
-Design (D): Membuat cetak biru aplikasi, struktur database, dan alur kerja.
+GROUP B: ALUR KERJA OPERASIONAL (P-A-D-I & U-D-M)
+Kelompok ini berisi urutan langkah teknis dari nol sampai aplikasi jadi.
 
-Implementation (I): Tahap coding atau penulisan program.
+Fase Produksi (P-A-D-I):
 
-Testing (U/Unit Test): Mencari bug atau kesalahan sebelum dirilis.
+P (Planning): Perencanaan ide dan sumber daya.
 
-Deployment (D): Memasang aplikasi di server agar bisa diakses pengguna.
+A (Analysis): Analisis kebutuhan sistem dan user.
 
-Maintenance (M): Memperbaiki kesalahan yang muncul setelah rilis dan melakukan pembaruan.
+D (Design): Perancangan arsitektur, database, dan UI/UX.
 
-Strategi Pengujian (Software Testing)
-Tulisan di bagian atas menjelaskan cara tim memastikan aplikasi tidak error:
+I (Implementation): Proses eksekusi pengkodean (Coding).
 
-White Box Testing: Penguji melihat ke dalam kode program (logika, looping, struktur).
+Fase Pasca-Produksi (U-D-M):
 
-Black Box Testing: Penguji hanya mencoba fungsi aplikasi (klik tombol, isi form) tanpa perlu tahu kode di dalamnya.
+U (Unit Testing): Pengujian komponen kecil kode.
 
-4. Estimasi Proyek (Metrics)
-Bagian kanan papan tulis membahas cara menghitung "berat" atau harga sebuah proyek:
+D (Deployment): Peluncuran aplikasi ke server/user.
 
-LOC (Line of Code): Menghitung besar proyek dari jumlah baris kode.
+M (Maintenance): Perawatan dan perbaikan sistem secara rutin.
 
-Function Point (FP): Menghitung berdasarkan banyaknya fungsi/fitur yang disediakan bagi pengguna (lebih akurat dari LOC).
 
-COCOMO (Constructive Cost Model): Rumus matematika untuk memprediksi berapa jumlah orang dan berapa bulan yang dibutuhkan untuk menyelesaikan proyek berdasarkan skala kesulitan.
 
-5. Komponen Teknis (Stack)
-Terdapat catatan kecil mengenai teknologi yang digunakan:
+GROUP C: ESTIMASI, PENGUJIAN, & DATA (QUALITY CONTROL)
+Kelompok ini berisi alat ukur untuk memastikan proyek efisien dan minim error.
 
-Integrasi: Menggunakan API dengan format JSON atau XML agar aplikasi bisa "mengobrol" dengan aplikasi lain.
+Strategi Pengujian (Testing):
 
-Bahasa/Framework: PHP, HTML, JS (JavaScript), dan SQL (Database).
+White Box: Cek logika di dalam kode (tembus pandang).
 
-CMS: Penggunaan sistem instan seperti WordPress atau Joomla untuk manajemen konten.
+Black Box: Cek fungsi dari luar (input-output).
+
+Metrik Estimasi (Kalkulasi Biaya & Waktu):
+
+COCOMO: Rumus hitung biaya dan jumlah orang.
+
+LOC / SLOC: Hitung besar proyek dari jumlah baris kode.
+
+Function Point (FP): Hitung besar proyek dari manfaat fitur.
+
+Integrasi & Teknologi:
+
+API: Jembatan komunikasi antar sistem.
+
+JSON / XML: Format data yang dikirim antar sistem.
+
+Stack: PHP, SQL, HTML, JS, CMS.
