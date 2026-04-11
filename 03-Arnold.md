@@ -2,10 +2,10 @@
 
 Sebelum memutuskan status proyek, sistem saat ini dianalisis menggunakan enam variabel utama dalam kerangka PIECES, yaitu:
 
-Performance (Kinerja)
+**Performance** (Kinerja)
 Apakah sistem saat ini lambat dalam memproses data? Jika waktu respons sangat tinggi, maka hal ini menjadi indikator bahwa sistem perlu diperbarui.
 
-Information (Informasi)
+**Information** (Informasi)
 Apakah data yang dihasilkan tidak akurat, sulit diakses, atau tidak relevan bagi manajemen?
 
 Economics (Ekonomi)
