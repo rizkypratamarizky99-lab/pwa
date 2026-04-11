@@ -1,10 +1,10 @@
 
-Narasi Kelayakan Proyek (PIECES + PREP)
+**Narasi Kelayakan Proyek (PIECES + PREP)**
 
-**Point** (Pernyataan Utama):
+**1. Point** (Pernyataan Utama):
 Proyek pengembangan sistem ini layak untuk dikerjakan karena mampu meningkatkan kinerja, efisiensi, dan kualitas layanan secara signifikan.
 
-**Reason** (Alasan - berdasarkan PIECES):
+**2. Reason** (Alasan - berdasarkan PIECES):
 Dilihat dari framework PIECES:
 
 **Performance** (Kinerja): Sistem lama lambat dalam memproses data sehingga menghambat pekerjaan.
@@ -19,8 +19,8 @@ Dilihat dari framework PIECES:
 
 **Service** (Layanan): Pelayanan kepada pengguna kurang maksimal dan sering terjadi keterlambatan.
 
-**Example** (Contoh Kasus):
+**3. Example** (Contoh Kasus):
 Sebagai contoh, pada sistem lama, proses pencatatan data masih dilakukan secara manual sehingga sering terjadi kesalahan input dan keterlambatan laporan. Dengan sistem baru yang terkomputerisasi, proses ini dapat dilakukan secara otomatis, lebih cepat, dan lebih akurat.
 
-**Point** (Penegasan Ulang):
+**4. Point** (Penegasan Ulang):
 Dengan demikian, proyek ini sangat layak untuk dikembangkan karena dapat memperbaiki berbagai kelemahan sistem lama serta memberikan nilai tambah bagi pengguna dan organisasi.
