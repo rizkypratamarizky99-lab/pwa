@@ -142,8 +142,6 @@ Software Development Life Cycle (SDLC) adalah kerangka kerja penting dalam penge
 - Teknologi yang digunakan
 - Manajemen tim dan proyek
 
+Dengan memahami SDLC, pengembangan software menjadi lebih terstruktur, efisien, dan menghasilkan produk yang berkualitas.
 
 ---
-
-## ✍️ Catatan
-Dokumen ini merupakan rangkuman materi pembelajaran Software Engineering.
