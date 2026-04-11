@@ -1,7 +1,4 @@
 rizki   
-
-Ahmad shiddiq santoso
-
-ade rahmat
-
-Arnold Berkat Gea
+Ahmad shiddiq santoso   
+ade rahmat  
+Arnold Berkat Gea  
